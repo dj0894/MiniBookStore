@@ -1,8 +1,9 @@
 # Mini Book Store
 
-This is Book Store Clone it displays the details of the book present in the store.
+Mini Book Store is the Single Page Application(SPA) for displaying details of the book present in the store.
 
 # Technologies Used
+
 React
 
 # Website Link
